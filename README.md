@@ -2,7 +2,7 @@
 
 This project aims to build a real estate prediction website in the city of Bangalore, India. Bangalore is a bustling in the southern part of India and it has all types of real estate properties available in different localities.
 
-The steps involved in developing this project include the followung: -
+The steps involved in developing this project include the following: -
 
 1) Data cleaning
 2) EDA & Feature Engineering
